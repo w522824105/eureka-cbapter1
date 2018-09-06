@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-eureka-bus-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-eureka-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-eureka-service1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-feign-service1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-ribbon-service1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-zuul-service1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth-service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sleuth-service-miya" charset="UTF-8" />
+  </component>
+</project>
