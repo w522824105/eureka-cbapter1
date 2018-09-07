@@ -23,6 +23,9 @@
         <module>config-eureka-bus-client1</module>
         <module>sleuth-service-hi</module>
         <module>sleuth-service-miya</module>
+        <module>eureka-hystrix-dashboard-hi</module>
+        <module>eureka-hystrix-dashboard-lucy</module>
+        <module>eureka-hystrix-turbine</module>
     </modules>
     <packaging>pom</packaging>
 

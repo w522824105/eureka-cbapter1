@@ -1,0 +1,15 @@
+server:
+  port: 8772
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: true  #注册自己到服务
+    fetchRegistry: false  #发现服务
+    serviceUrl:
+      defaultZone: http://localhost:8771/eureka/
+#eureka.server.enableSelfPreservation: false  #保护模式
+spring:
+  application:
+    name: eurka-server
